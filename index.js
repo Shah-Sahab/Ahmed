@@ -1,6 +1,10 @@
 #!/usr/bin/env node
-
 // Sha-bang line (above) to tell the shell how to execute the file
+
+const clearConsole = require('clear-any-console');
+
+clearConsole(); // Clear the console before printing the output
+
 console.log(`Syed Ahmed Hussain 
 
 Just a life long learner, who loves to code and solve problems. 
