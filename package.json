@@ -2,6 +2,6 @@
     "name": "ahmed",
     "version": "1.0.0",
     "bin": {
-        "ahmed": "index.js"
+        "ahmedh": "index.js"
     }
 }
