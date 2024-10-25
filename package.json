@@ -1,6 +1,6 @@
 {
 	"name": "ahmed-hussain",
-	"version": "2.0.7",
+	"version": "2.0.8",
 	"description": "Get to know Ahmed via `npx ahmed`",
 	"bin": {
 		"ahmed": "index.js"
