@@ -1,4 +1,4 @@
-# `npx ahmed-hussain`
+# `npx ahmed`
 
 > Get to know Syed Ahmed Hussain using your command line with Node.js
 
@@ -7,7 +7,7 @@
 To use this CLI run the following command:
 
 ```sh
-npx ahmed-hussain
+npx ahmed
 ```
 
 
